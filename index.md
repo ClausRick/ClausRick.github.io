@@ -4,6 +4,6 @@ In den Verfilmungen spielt Jennifer Lawrence die Rolle der Katniss Everdeen.
 
 ## Character traits
 * lange dunkle Haare
-* Willensstärke und Mut
-* setzt sich für andere ein
-* bekämpft die Zentralregierung
+* Willensstaerke und Mut
+* setzt sich fuer andere ein
+* bekaempft die Zentralregierung
