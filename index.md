@@ -7,3 +7,7 @@ In den Verfilmungen spielt Jennifer Lawrence die Rolle der Katniss Everdeen.
 * Willensstaerke und Mut
 * setzt sich fuer andere ein
 * bekaempft die Zentralregierung
+
+As Katniss said:
+>You never forget the face of the person
+>that is yout last hope.
